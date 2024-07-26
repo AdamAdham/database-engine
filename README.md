@@ -3,40 +3,10 @@
 <img src="./images/img1.png" alt="Description of Image">
 
 **German University in Cairo** 
-
 **Faculty of Media Engineering and Technology** 
-
 **CSEN604: Database II - MET Project 1** 
-
 *Instructor:* Dr. Wael Abouelsaadat 
-
 *TAs:* Ahmed Hassan, Mahinar Reda, Fatma Riad, Abdulrahman Badran, Khaled Tamer Aly ***https://piazza.com/guc.edu.eg/spring2024/csen604***
-
-***Release Date**:* February 18th, 2024               ***Submission**:* April 15th, 2024 
-
-***Weight & Marking*** 
-
-The course projects are worth 20%. Project 1 (this one) is worth 14%. No best policy. This project’s marking scheme is included in the last page of this document. 
-
-***Team Formation*** 
-
-This assignment should be done in **teams of FOUR to SIX (i.e. 4 <= nTeamSize <= 6).** You can make a team **cross-tutorial** and **cross major**. If you cannot find a team, still submit the teams form (posted on cms) and a TA will synch you with other students.  
-
-***Team Complaints*** 
-
-If a team member is not doing agreed upon work, you can report that by submitting the 2 forms included in this project folder. Fill the forms, sign them and hand them to your TA, within 2 days after the project submission deadline. After 2 days, we will not accept any team complaints. In that  case  individual  evaluation  will  be  conducted  for  the  whole  team  to  determine  the participation of each member.  
-
-***Environment*** 
-
-You must use Java to develop this project. You can use any IDE of your choice such as Eclipse, IntelliJ, NetBeans, etc…  
-
-***Submissions*** 
-
-An announcement will be made later on regarding how to submit. 
-
-***Questions*** 
-
-Direct your questions to project 1 topic on piazza: https://piazza.com/guc.edu.eg/spring2024/csen604
 
 ***Description*** 
 
@@ -290,3 +260,26 @@ public Iterator parseSQL( StringBuffer strbufSQL ) throws DBAppException
 **Other Deductions:** 
 
 Not respecting specified method signatures   -5 Not submitting ant, maven or make file     -1 not performing binary search where possible   -3 Using ArrayList instead of vector     -2 
+
+***Release Date**:* February 18th, 2024               ***Submission**:* April 15th, 2024 
+***Weight & Marking*** 
+The course projects are worth 20%. Project 1 (this one) is worth 14%. No best policy. This project’s marking scheme is included in the last page of this document. 
+***Team Formation*** 
+
+This assignment should be done in **teams of FOUR to SIX (i.e. 4 <= nTeamSize <= 6).** You can make a team **cross-tutorial** and **cross major**. If you cannot find a team, still submit the teams form (posted on cms) and a TA will synch you with other students.  
+
+***Team Complaints*** 
+
+If a team member is not doing agreed upon work, you can report that by submitting the 2 forms included in this project folder. Fill the forms, sign them and hand them to your TA, within 2 days after the project submission deadline. After 2 days, we will not accept any team complaints. In that  case  individual  evaluation  will  be  conducted  for  the  whole  team  to  determine  the participation of each member.  
+
+***Environment*** 
+
+You must use Java to develop this project. You can use any IDE of your choice such as Eclipse, IntelliJ, NetBeans, etc…  
+
+***Submissions*** 
+
+An announcement will be made later on regarding how to submit. 
+
+***Questions*** 
+
+Direct your questions to project 1 topic on piazza: https://piazza.com/guc.edu.eg/spring2024/csen604
