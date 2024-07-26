@@ -1,6 +1,6 @@
 # database-engine
 
-![](images/Aspose.Words.73db25b6-1cbe-4a72-9fde-ab54f2d3209b.001.png)
+![](./images/Aspose.Words.73db25b6-1cbe-4a72-9fde-ab54f2d3209b.001.png)
 
 **German University in Cairo** 
 
