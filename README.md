@@ -156,9 +156,9 @@ String   strIndexName) throws DBAppException
 
 public void insertIntoTable(String strTableName,  
 
-`    `Hashtable<String,Object>  htblColNameValue)  
+Hashtable<String,Object>  htblColNameValue)  
 
-`  `throws DBAppException 
+throws DBAppException 
 
 // following method updates one row only 
 
@@ -180,13 +180,13 @@ throws DBAppException
 
 public void deleteFromTable(String strTableName,  
 
-`                            `Hashtable<String,Object> htblColNameValue)  
+Hashtable<String,Object> htblColNameValue)  
 
-`     `throws DBAppException 
+throws DBAppException 
 
 public Iterator selectFromTable(SQLTerm[] arrSQLTerms,  
 
-`  `String[]  strarrOperators)  
+String[]  strarrOperators)  
 
 throws DBAppException 
 
