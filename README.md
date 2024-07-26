@@ -1,6 +1,6 @@
 # database-engine
 
-<img src="test1.png" alt="Description of Image">
+<img src="./images/img1.png" alt="Description of Image">
 
 **German University in Cairo** 
 
@@ -79,7 +79,7 @@ The description below is numbered for ease of communication between you and cour
 
 For example, if a user creates a table/relation CityShop, specifying several attributes with their types, etc… the file will be: 
 
-**Table Name, Column Name, Column Type, ClusteringKey, IndexName,IndexType  ![](Aspose.Words.73db25b6-1cbe-4a72-9fde-ab54f2d3209b.002.png)**CityShop, ID, java.lang.Integer, True, IDIndex, B+tree 
+**Table Name, Column Name, Column Type, ClusteringKey, IndexName,IndexType  ![](./images/img2.png)**CityShop, ID, java.lang.Integer, True, IDIndex, B+tree 
 
 CityShop, Name, java.lang.String, False, null, null 
 
@@ -190,7 +190,7 @@ public Iterator selectFromTable(SQLTerm[] arrSQLTerms,
 
 throws DBAppException 
 
-Following is an example code that creates a table, creates an index, does few inserts, and a select; ![](Aspose.Words.73db25b6-1cbe-4a72-9fde-ab54f2d3209b.003.png)
+Following is an example code that creates a table, creates an index, does few inserts, and a select; ![](./images/img3.png)
 
 String strTableName = "Student"; DBApp dbApp = new DBApp( ); 
 
@@ -226,7 +226,7 @@ strarrOperators[0] = "OR";
 
 // select \* from Student where name = “John Noor” or gpa = 1.5; 
 
-Iterator resultSet = dbApp.selectFromTable(arrSQLTerms , strarrOperators); ![](Aspose.Words.73db25b6-1cbe-4a72-9fde-ab54f2d3209b.004.png)
+Iterator resultSet = dbApp.selectFromTable(arrSQLTerms , strarrOperators); ![](./images/img4.png)
 
 23) For  the  parameters,  the  name  documents  what  is  being  passed  –  for  example htblColNameType is a hashtable with *key* as ColName and *value* is the Type.  
 23) Operator Inside SQLTerm can either be >, >=, <, <=, != or =   
