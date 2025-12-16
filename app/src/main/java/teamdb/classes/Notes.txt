@@ -1,0 +1,11 @@
+Questions:
+How can we access the string array without having the instance of table
+Serializing
+If Integer and into double 3ady
+if columns a2al fel insert do we insert as null?
+Duplicates are discarded correct?
+
+
+
+Notes:
+Hashmap and arraylist are serializable
